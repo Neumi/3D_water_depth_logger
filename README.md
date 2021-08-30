@@ -2,7 +2,7 @@
 A simple Arduino based logger for depth mapping of water bodies. Using cheap and simple hardware like a GPS module, an SD card and a standard NMEA capable echolot sounder. The data is then transformed into a depth map with depth contours using python and matplotlib.
 
 
-The harbour I mapped has an area of around 40.000m^2 and the water level changed 4m every 6 hours with the tides. As the measurement took around 1,5 hours, I had to take this tidal change into account and I used data from a Wasser&Schiffahrsamt water level. The logger writes depth data every 1 second but checks for valid GPS/depth synchronization before. This led to some missed datapoints in the log. Anyway the result is ok and shows the shallow spots in the harbour.
+The harbour I mapped has an area of around 40.000m^2 and the water level changes 4 meters every 6 hours with the tides. As the measurement took around 1,5 hours, I had to take this tidal change into account and I used data from a Wasser&Schiffahrsamt water level. The logger writes depth data every 1 second but checks for valid GPS/depth synchronization before. This led to some missed datapoints in the log. Anyway the result is ok and shows the shallow spots in the harbour.
 
 
 ## The process looks like this:
