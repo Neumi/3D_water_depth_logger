@@ -34,3 +34,11 @@ The harbour I mapped has an area of around 40.000m^2 and the water level changes
 ![PCB Backside](/images/device3.JPG)
 ![PCB Backside](/images/map.png)
 ![PCB Backside](/images/map2.png)
+
+
+## Some blogs wrote about this project:
+https://blog.arduino.cc/2021/09/07/diy-3d-water-depth-mapping-with-arduino/
+
+https://www.hackster.io/news/create-topographical-maps-of-water-depths-with-this-unique-project-9df50369b685
+
+https://hackaday.com/2021/09/06/homebrew-sounder-maps-the-depths-in-depth/
